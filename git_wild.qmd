@@ -19,7 +19,7 @@ library(tidyverse)
 ## STEP 4: No merge conflicts!
 
 ```{r partner 1}
-#hi there. lets git some hub together!
+#hi there. Git hub practice
 ```
 
 ```{r partner 2}
